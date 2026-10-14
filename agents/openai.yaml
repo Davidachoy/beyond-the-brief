@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beyond the Brief"
+  short_description: "Research decisions, hidden costs, and blind spots"
+  default_prompt: "Use $beyond-the-brief to research this idea before taking action, including firsthand experiences, hidden costs, and blind spots."
